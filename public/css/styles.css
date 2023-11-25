@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+}
+
+nav {
+    background-color: rgb(14, 123, 232);
+    color: #ecf0f1;
+    padding: 10px;
+}
+
+.social-icons a {
+    color: #3498db;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: rgb(255, 27, 27);
+    color: #ecf0f1;
+    padding: 10px;
+}
